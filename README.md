@@ -14,6 +14,11 @@
         *   **Status:** In Progress
 
     3.  **Incident Report: Lumma Stealer Malware (DLL Side-Loading)**
-        *   **Status:** In Progress
+        *   **Status:** Completed
+        *   **Description:** An in-depth analysis of a modern infostealer attack that utilized a multi-stage execution chain. This report showcases the deconstruction of a phishing campaign leading to a sophisticated **DLL Side-Loading** technique, leveraging **PowerShell** and **`mshta.exe`** for defense evasion.
+        *   **[View PDF](https://github.com/febrian96r/Cybersecurity-Portfolio/blob/main/Incident_Report_Lumma_Stealer_SOC338.pdf)**
     ```
+
+   
+
 
